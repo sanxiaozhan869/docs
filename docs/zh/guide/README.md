@@ -71,8 +71,7 @@ category:
 - [x] [曲奇云盘](https://quqi.com)
 - [x] [网易云音乐云盘](../guide/drivers/163music.md)
 - [x] [6盘](../guide/drivers/halalcloud.md)
-- [x] [联想家庭储存链接分享](https://pc.lenovo.com.cn)
-
+- [x] [联想家庭储存链接分享](https://pc.lenovo.com.c
 ## Discussion
 
 一般问题请到[讨论论坛](https://github.com/Xhofe/alist/discussions) ，**issue仅针对错误报告和功能请求。**
